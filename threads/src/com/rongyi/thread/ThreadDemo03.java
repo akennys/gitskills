@@ -16,7 +16,7 @@ public class ThreadDemo03 {
 					e.printStackTrace();
 				}
 			}*/
-			//System.out.println("主线程：" + i);
+			System.out.println("主线程：" + i);
 		}
 	}
 }

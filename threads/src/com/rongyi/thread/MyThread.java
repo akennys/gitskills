@@ -14,11 +14,11 @@ public class MyThread extends Thread{
 			}*/
 			
 			System.out.println(name + ":" + i);
-			if(i == 10){
+			/*if(i == 10){
 				System.out.println(name + "¿Ò»√");
 				Thread.yield();
-			}
+			}*/
 		}
-		super.run();
+		//super.run();
 	}
 }
