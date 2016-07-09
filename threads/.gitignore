@@ -1,5 +1,4 @@
 .settings
-.classpath
 classes
 target
 *.iml
